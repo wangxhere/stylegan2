@@ -212,3 +212,4 @@ Temporary Items
 results/
 Pipfile.lock
 .stylegan2-cache
+dnnlib/tflib/_cudacache/
