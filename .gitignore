@@ -209,3 +209,6 @@ Temporary Items
 .idea/modules.xml
 .idea/stylegan2.iml
 .idea/vcs.xml
+results/
+Pipfile.lock
+.stylegan2-cache

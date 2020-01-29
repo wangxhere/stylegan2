@@ -59,7 +59,8 @@ class PlatformExtras:
         self.data_reader_process_count = 0      # single threaded default
 
 
-_user_name_override = None
+# _user_name_override = None
+_user_name_override = "wangxhere"
 
 class SubmitConfig(util.EasyDict):
     """Strongly typed config dict needed to submit runs.
